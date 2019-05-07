@@ -5,10 +5,9 @@ This boilerplate was created off [Fastshell](https://github.com/HosseinKarami/fa
 
 1. Install [Node.js](http://nodejs.org/download), [Sass](http://sass-lang.com/tutorial.html) and [Git](http://git-scm.com) on your machine. If you're a Windows user you'll also need to install [Ruby](http://rubyinstaller.org/downloads).
 2. [Install Gulp](http://Gulpjs.com/) using `npm install -g gulp`. You may need to use `sudo` in front of the Gulp install command to give it permissions.
-3. Fork/Clone/Download the FastShell repository into your machine, you should hopefully see all the files and folders.
-4. Open Terminal and run `npm install` in your project directory in order to download your `node_modules`. You don't need `sudo` to do this.
-5. Run `gulp` (again in your project directory) to start a local server that automatically reloads when changes are made in your project. The default port is `localhost:3002`.
-6. Onward, just run `gulp` in your project directory to automatically run your Gulp tasks.
+3. Open Terminal and run `npm install` in your project directory in order to download your `node_modules`. You don't need `sudo` to do this.
+4. Run `gulp` (again in your project directory) to start a local server that automatically reloads when changes are made in your project. The default port is `localhost:3002`.
+5. Onward, just run `gulp` in your project directory to automatically run your Gulp tasks.
 
 ````js
 /*!
